@@ -5,7 +5,6 @@
   "description": "Extensão que carrega um site do GitHub Pages",
   "icon": "./icon.svg",
   "author": "nezakosemsal-tech",
-  "homepage_url": "https://github.com/nezakosemsal-tech/carregapaginaowlbear",
   "action": {
     "title": "Carregador de Página",
     "icon": "./icon.svg",
