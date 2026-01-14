@@ -9,7 +9,7 @@
   "action": {
     "title": "Carregador de Página",
     "icon": "./icon.svg",
-    "popover": "https://nezakosemsal-tech.github.io/carregapaginaowlbear/index.html",
+    "popover": "./index.html",
     "width": 800,
     "height": 600
   }
