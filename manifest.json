@@ -3,7 +3,6 @@
   "name": "Carregador de Página",
   "version": "1.0.0",
   "description": "Extensão que carrega um site do GitHub Pages",
-  "icon": "https://raw.githubusercontent.com/nezakosemsal-tech/carregapaginaowlbear/main/icon.svg",
   "author": "nezakosemsal-tech",
   "homepage_url": "https://github.com/nezakosemsal-tech/carregapaginaowlbear",
   "action": {
